@@ -1,0 +1,5 @@
+interface EmployeeRepository{
+
+//code
+
+}
