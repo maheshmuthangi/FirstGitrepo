@@ -1,0 +1,6 @@
+class EmployeeRepositoryImpl implements EmployeeRepository
+{
+
+//
+
+}
