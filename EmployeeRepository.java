@@ -1,5 +1,5 @@
 interface EmployeeRepository{
 
-//code
+public void getEmployee();
 
 }
